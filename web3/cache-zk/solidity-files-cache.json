@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\Programming\\VS Code\\Projects\\crowdfunding-blockchain\\web3\\contracts\\CrowdChain.sol": {
+      "lastModificationDate": 1743493650274,
+      "contentHash": "ab78d8d14d240bbffbaf38cc844faf36",
+      "sourceName": "contracts/CrowdChain.sol",
+      "solcConfig": {
+        "version": "0.8.23",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "CrowdChain"
+      ]
+    }
+  }
+}

@@ -29,7 +29,7 @@
 ## 🛠️ Tech Stack  
 
 ### **Frontend**  
-- **Next.js** – Modern UI framework  
+- **React** – Modern UI framework  
 - **Tailwind CSS** – Responsive design  
 - **Ethers.js** – Blockchain interaction  
 
