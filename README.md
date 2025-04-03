@@ -51,15 +51,6 @@
 5️⃣ **Campaign creator requests fund withdrawal**  
 6️⃣ **Smart contract verifies milestone & releases funds**  
 
-## 👥 Team Members  
-
-**Team Name:** Fork Force  
-
-- **Harshit Srivastava**  
-- **Piyush Goyal**  
-- **Kavya Sharma**  
-- **Jashandeep Singh**  
-
 ## 📜 License  
 
 This project is licensed under the **MIT License**.  
