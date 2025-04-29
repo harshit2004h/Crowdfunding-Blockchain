@@ -39,7 +39,6 @@
 - **Ethereum / Polygon** – Decentralized transactions  
 
 ### **Database & Authentication**  
-- **MongoDB** – Stores user profiles & metadata  
 - **MetaMask API** – Secure wallet authentication  
 
 ## 🔄 Workflow  
